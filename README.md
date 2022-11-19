@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bruno
-- 👀 I’m interested in Data Science, especially in Generative Deep Learning
-- 🌱 I’m currently learning about Generative Adversarial Networks
+- 👀 I’m interested in MLOps
+- 🌱 I’m currently learning about MLOps
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/bruno-vaz-162203197) or through my email 2010b9@gmail.com
 
 <!---
