@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Bruno
-- 👀 I’m interested in MLOps
-- 🌱 I’m currently learning about MLOps
+- 👀 I’m interested in MLOps and currently learning about it!
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/bruno-vaz-162203197) or through my email 2010b9@gmail.com
 
 <!---
